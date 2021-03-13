@@ -10,9 +10,9 @@ Runs well using Python3.7, but can probably be optimised quite a bit.
 ## About Bismuth
 Bismuth is a decentralised transaction platform with optional turing complete public & private smart contracts. 
 
-It comes with default decentralised applications and tools out of the box, not only to be used by everyone, but also to be hosted by anyone. These applications are supplied as interpretation engines, which prevents blockchain bloat. Inspired by Satoshi’s whitepaper, Bismuth also offers optional hyperblocks as a pruning mechanism, a system which greatly reduces disk space usage and increases execution speed.
+It comes with default decentralised applications and tools out of the box, to be used and hosted by anyone. These applications are supplied as interpretation engines, which prevents blockchain bloat. Inspired by Satoshi’s whitepaper, Bismuth also offers optional hyperblocks as a pruning mechanism, a system which greatly reduces disk space usage and increases execution speed.
 
-As the first Python blockchain, Bismuth does not draw any code from other repositories, instead reformulating the principles of decentralisation in its own terms to make the code easily readable, compatible across all platforms for smooth integrations into business solutions, and most importantly: open for development to the wide public through it’s simplicity, while minimising the security risk for custom code implementations.
+As the first Python blockchain, Bismuth does not draw any code from other repositories, instead focusing on making the code easily readable, compatible across all platforms for smooth integrations into business solutions, and most importantly: open for development to the wide public through it’s simplicity, while minimising the security risk for custom code implementations.
 
 It is also home to [Dragginator](https://dragginator.com/), one of the first NFT projects. 
 

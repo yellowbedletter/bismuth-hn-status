@@ -5,7 +5,7 @@ Scraper that shows the status of a [Bismuth](https://bismuth.cz/summary/) Hypern
 
 Just make sure you have Selenium installed, as well as Chromedriver on the right path. Then set the variable 'the_one' to your HN's IP address and you're good to go.
 
-Runs well using Python3.7, but can probably be optimised quite a bit.
+Been using it for about two years. Runs well using Python3.7, but can probably be optimised quite a bit.
 
 ## About Bismuth
 Bismuth is a decentralised transaction platform with optional turing complete public & private smart contracts. 

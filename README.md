@@ -14,4 +14,6 @@ It comes with default decentralised applications and tools out of the box, not o
 
 As the first Python blockchain, Bismuth does not draw any code from other repositories, instead reformulating the principles of decentralisation in its own terms to make the code easily readable, compatible across all platforms for smooth integrations into business solutions, and most importantly: open for development to the wide public through it’s simplicity, while minimising the security risk for custom code implementations.
 
+It is also home to [Dragginator](https://dragginator.com/), one of the first NFT projects. 
+
 [Learn more about Bismuth here.](https://github.com/bismuthfoundation/Bismuth-FAQ)
